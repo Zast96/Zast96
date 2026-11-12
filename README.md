@@ -5,7 +5,7 @@
 **Full-stack developer** — Laravel · Node.js · Angular/React · based in Italy (CET, UTC+1) · open to full-remote roles across the EU · English C1
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100049691471258) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/greedypeace/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-passarini-374231241/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20302034) [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=netlify&logoColor=white)](https://davidep.netlify.app) [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:davidepassarini96@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davide-passarini-374231241/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/20302034) [![Portfolio](https://img.shields.io/badge/Portfolio-000000.svg?logo=netlify&logoColor=white)](https://davidep.netlify.app) [![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:davidepassarini96@gmail.com)
 
 # 🛠️ What I'm working on:
 - **Real-time notifications** — Node.js (Fastify, ESM) with WebSocket, JSON Schema validation, topic subscriptions and AWS SQS queues; integrated with WhatsApp Business API, Slack and email.

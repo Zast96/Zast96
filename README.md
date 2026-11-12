@@ -27,9 +27,7 @@
 ![](https://streak-stats.demolab.com?user=Zast96&theme=dark&hide_border=true)<br/>
 
 ### ✍️ Random Dev Quote
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="600" height="200" alt="Random developer quote" />
-</div>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
 <!--
